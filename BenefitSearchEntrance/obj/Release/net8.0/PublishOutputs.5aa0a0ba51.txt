@@ -1,0 +1,3 @@
+/Users/eilifakerjordet/work/akapluss/WpPlugin/BenefitSearchEntrance/dist/wp-plugin/appsettings.json
+/Users/eilifakerjordet/work/akapluss/WpPlugin/BenefitSearchEntrance/dist/wp-plugin/_framework/blazor.boot.json
+/Users/eilifakerjordet/work/akapluss/WpPlugin/BenefitSearchEntrance/dist/web.config

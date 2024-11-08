@@ -1,0 +1,29 @@
+{
+  "name": "benefit-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tw:watch:standalone": "postcss ./Styles/standalone-app.css --output ./wwwroot/css/tailwind.css --watch",
+    "tw:build-prod:standalone": "postcss ./Styles/standalone-app.css --output ./wwwroot/css/tailwind.css",
+    "tw:build-prod:wp": "postcss ./Styles/wp.css --output ./wwwroot/css/tailwind.css",
+    "dev": "concurrently --kill-others \"pnpm run tw:watch:standalone\" \"dotnet watch --non-interactive\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "@types/postcss-import": "^14.0.3",
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^9.0.1",
+    "cssnano": "^7.0.6",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0",
+    "postcss-import": "^16.1.0",
+    "postcss-prefix-selector": "^2.1.0",
+    "tailwindcss": "^3.4.13",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "dependencies": {}
+}

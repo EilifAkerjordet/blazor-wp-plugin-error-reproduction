@@ -1,0 +1,9 @@
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/dist/web.config
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/dist/wp-plugin/js/appsettings.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/dist/wp-plugin/js/_framework/blazor.boot.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/dist/wwwroot/appsettings.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/dist/wwwroot/appsettings.WpWidget.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/dist/wwwroot/_framework/blazor.boot.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/wp-plugin/js/appsettings.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/wp-plugin/js/_framework/blazor.boot.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/hehe/web.config

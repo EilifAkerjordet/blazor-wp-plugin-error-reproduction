@@ -1,0 +1,9 @@
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/dist/web.config
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/dist/wp-plugin/js/appsettings.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/dist/wp-plugin/js/_framework/blazor.boot.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/dist/wwwroot/appsettings.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/dist/wwwroot/appsettings.WpWidget.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/dist/wwwroot/_framework/blazor.boot.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/wp-plugin/js/appsettings.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/wp-plugin/js/_framework/blazor.boot.json
+/Users/eilifakerjordet/work/akapluss/Widgets/BenefitSearchEntrance/bin/Release/net8.0/publish/web.config

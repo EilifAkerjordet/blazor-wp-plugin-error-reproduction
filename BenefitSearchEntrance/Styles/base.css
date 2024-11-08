@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Start app specific */
+    --kol-color-primary: 246 55% 19%;
+    --dnlf-color-primary: 192 47% 50%;
+    --dntf-color-primary: 210 100% 29%;
+    --dnv-color-primary: 152 37% 62%;
+    --nat-color-primary: 152 48% 24%;
+    --nll-color-primary: 179 100% 31%;
+    --npf-color-primary: 154 100% 13%;
+    --sao-color-primary: 208 100% 82%;
+    --sav-color-primary: 314 65% 35%;
+    /* End app specific */
+
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+  }
+}
